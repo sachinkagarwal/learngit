@@ -36,7 +36,7 @@ Merging a change into another branch
 ## Experiment 3
 Conflict Resolution
 
-Here is a master branch with a conflict.
+Here is a master branch with a conflict. 
  
 
-Here is the feature branch change.
+Here is the feature branch change.Nice conflict
