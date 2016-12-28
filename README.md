@@ -39,3 +39,4 @@ Conflict Resolution
 Here is a master branch with a conflict.
  
 
+Here is the feature branch change.
