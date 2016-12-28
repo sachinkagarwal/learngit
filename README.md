@@ -39,4 +39,3 @@ Conflict Resolution
 Here is a master branch with a conflict.
  
 
-
