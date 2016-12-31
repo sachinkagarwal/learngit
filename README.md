@@ -40,3 +40,8 @@ Here is a master branch with a conflict.
  
 
 Here is the feature branch change.Nice conflict
+
+## Experiment 4
+
+Trying to rebase
+
