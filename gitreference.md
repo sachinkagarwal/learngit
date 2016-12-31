@@ -22,3 +22,17 @@ git remote show <remote-name e.g. origin>
 Create a branch and set it to track a remote branch
 ```
 git checkout -b 
+```
+
+### Merge related commands
+Show which branches have been merged (or  not merged). Merged branches can be deleted.
+``` 
+git branch --merged
+git branch --no-merged
+```
+
+Deleting a (merged) branch; this doesn't work if the branch is not merged, in which case you need to use a force delete switch (-D)
+```
+git branch -d <branchname>
+```
+
