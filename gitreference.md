@@ -21,11 +21,12 @@ git remote show <remote-name e.g. origin>
 
 Create a branch and set it to track a remote branch
 ```
-git checkout -b 
+git checkout -b <new-branch> remotes/<remote-name>/branch-to-track
+# the remote branch name can be read off from the output of git branch -a
 ```
 
 ### Merge related commands
-Show which branches have been merged (or  not merged). Merged branches can be deleted.
+Show which branches have been merged (or not merged). Merged branches can be deleted.
 ``` 
 git branch --merged
 git branch --no-merged
